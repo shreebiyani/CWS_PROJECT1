@@ -1,0 +1,46 @@
+/* PlaceOrder.css */
+
+.place-order {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+  }
+  
+  .menu-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .menu-table th, .menu-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .menu-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .selected-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .selected-items li {
+    margin-bottom: 5px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
